@@ -49,6 +49,5 @@ public class Main {
                 } else {
                      System.out.println("~    Invalid operation    ~");
         }
-
     }
 }
